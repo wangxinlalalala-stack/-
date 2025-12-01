@@ -1,0 +1,2 @@
+<!-- 在index.html中使用这个 -->
+<iframe src="https://threejs.org/examples/webgl_geometry_cube.html" width="800" height="600" frameborder="0"></iframe>
